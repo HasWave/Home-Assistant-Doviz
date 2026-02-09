@@ -1,0 +1,10 @@
+{
+  "domain": "haswave_doviz",
+  "name": "HasWave Döviz",
+  "documentation": "https://github.com/HasWave/Home-Assistant-Doviz",
+  "requirements": ["requests", "beautifulsoup4"],
+  "version": "1.0.0",
+  "iot_class": "cloud_polling",
+  "codeowners": ["@HasWave"],
+  "config_flow": true
+}
