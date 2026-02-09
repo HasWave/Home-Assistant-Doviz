@@ -5,19 +5,19 @@
         "title": "HasWave Döviz",
         "description": "TRTHaber'den dolar, euro, altın ve BIST verileri çekilir. Bağlantıyı doğrulamak için Gönder'e tıklayın."
       }
-    },
-    "error": {
-      "cannot_connect": "TRTHaber'e bağlanılamadı. İnternet bağlantısını kontrol edin.",
-      "unknown": "Beklenmeyen bir hata oluştu."
-    },
-    "options": {
-      "step": {
-        "init": {
-          "title": "Güncelleme sıklığı",
-          "description": "Verilerin ne sıklıkla güncelleneceğini seçin.",
-          "data": {
-            "update_interval": "Güncelleme sıklığı"
-          }
+    }
+  },
+  "error": {
+    "cannot_connect": "TRTHaber'e bağlanılamadı. İnternet bağlantısını kontrol edin.",
+    "unknown": "Beklenmeyen bir hata oluştu."
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Güncelleme sıklığı",
+        "description": "Verilerin ne sıklıkla güncelleneceğini seçin.",
+        "data": {
+          "update_interval": "Güncelleme sıklığı"
         }
       }
     }
